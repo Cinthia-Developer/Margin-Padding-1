@@ -1,0 +1,14 @@
+div{
+    text-align: center;
+    border: 3px solid orange;
+    padding:10px 10px 10px 0px;
+    margin:10px 1000px 15px 0px;
+}
+h1{
+    font-size: 23px;
+    text-align: left;
+}
+p{
+    text-align:left;
+    font-size: 18px;
+}/* Agrega aqui tu CSS */

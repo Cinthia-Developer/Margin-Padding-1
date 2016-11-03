@@ -1,0 +1,15 @@
+/* Agrega aqui tu CSS */
+div{
+    text-align: center;
+    border: 3px solid orange;
+    padding:18px;
+    margin:10px 1000px 100px 0px;
+}
+h1{
+    font-size: 23px;
+    text-align: left;
+}
+p{
+    text-align:left;
+    font-size: 18px;
+}
